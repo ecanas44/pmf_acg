@@ -1,0 +1,590 @@
+fid,NUMERO_INC,CONSECUTIV,PARQUE_NAC,SECTOR,SITIO,FECHA_INCE,layer,path,ANO,PERIMETRO,AREA_m2
+"1","9","9",Guanacaste,Pocosol,X Punto,10/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",8359.05,2874542.78
+"2","1","1",Guanacaste,Pocosol,Escondido,27/02/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",265.47,4903.27
+"3","6","6",Rincon de la Vieja,Santa Maria,Santa Maria,29/03/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",3068.68,353459.76
+"4","21","21",Santa Rosa,Murcielago,Cerros Santa Elena,06/05/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",12308.4,6920774.27
+"5","19","19",Guanacaste,El Hacha,El Hacha,19/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1072.07,39007.47
+"6","24","24",Santa Rosa,Murcielago,Playa Blanca,21/05/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",7844.78,2321401.01
+"7","18","18",Santa Rosa,Santa Rosa,Platanares,20/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",2519.15,255040.68
+"8","25","25",Santa Rosa,Santa Rosa,Piedra Jicote,22/05/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",2594.94,286231.67
+"9","23","23",Santa Rosa,Murcielago,Los Cabros,18/05/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",3341.02,250098.72
+"10","17","17",Guanacaste,Pocosol,Las Tecas,18/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1472.71,100437.53
+"11","3","3",E.E.F.Horizontes(Area Protegida),Horizontes,Las Mesas,13/03/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1216.45,69008.55
+"12","20","20",Santa Rosa,Santa Rosa,La Bolsa,30/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1701.03,98244.4
+"13","15","15",R.V.F.Bahia Junquillal,Junquillal,Junquillal,16/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",473.66,13265.15
+"14","7","7",Guanacaste,Pocosol,Juanislama,04/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1884.36,164460.04
+"15","2","2",Guanacaste,Pocosol,Juanislama,11/03/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",4269.44,629526.65
+"16","8","8",Guanacaste,El Hacha,Genova,04/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1658.08,126006.47
+"17","22","22",Guanacaste,Pocosol,San Jocecito,11/05/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",898.89,26999.54
+"18","16","16",Guanacaste,El Hacha,Genova,17/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",883.08,32100.53
+"19","10","10",Guanacaste,El Hacha,Genova,12/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",2820.27,416354.08
+"20","12","12",Guanacaste,Pocosol,Escondido,14/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",9080.48,4657877.26
+"21","5","5",Guanacaste,Pocosol,Chumico,17/03/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",2305.9,174090.77
+"22","13","13",Santa Rosa,Murcielago-Santa Ele,Cerro la Pita,15/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",3384.31,303100.58
+"23","11","11",Guanacaste,Cacao-Pocosol,San Jocecito,13/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",19640.78,3029312.66
+"24","4","4",Guanacaste,Pocosol,Alta Mira,14/03/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",2260.52,129114.2
+"25","14","14",Santa Rosa,Santa Rosa,Cuatro Esquinas,15/04/1997,incendios_acg_1997_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1997_crtm05.shp,"1997",1359.92,39025.46
+"26","22","47",C.B.Rincon Cacao,San Cristobal,San Cristobal,23/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",2204.71,276068.7
+"27","29","54",Santa Rosa,Santa Rosa,Los Perros,09/06/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",4025.48,207041.77
+"28","28","53",Santa Rosa,Murcielago,Loma Pargos,30/05/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",7279.65,1689271.19
+"29","8","33",Guanacaste,Pocosol,Agua Caliente,21/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",406.95,7943.68
+"30","27","52",Guanacaste,Pocosol,Las Tecas,18/05/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",7584.81,1692052.39
+"31","26","51",Guanacaste,El Hacha,Laguna Guayabal,17/05/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",13407.07,3505797.89
+"32","25","50",Guanacaste,El Hacha,Genova,27/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",4179.73,593347.28
+"33","24","49",Guanacaste,Pocosol,La Lucha,26/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",25967.5,8791481.75
+"34","23","48",Santa Rosa,Murcielago,Cerros La Pava,25/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",598.25,15154.52
+"35","21","46",Guanacaste,El Hacha,Genova,22/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",4417.71,265010.78
+"36","20","45",Guanacaste,El Hacha,Amo-Genova,22/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",8505.38,1339385.32
+"37","19","44",E.E.F. Horizontes,Horizontes,La Esperanza,10/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",1148.07,23868.26
+"38","18","43",Santa Rosa,Santa Rosa,Las Vallas,08/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",3428.49,488585.06
+"39","17","42",E.E.F. Horizontes,Horizontes,Bejuco,02/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",5682.9,900337.66
+"40","16","41",R.V.S. Bahia Junquillal,Junquillal,Junquillal,02/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",644.87,10042.87
+"41","15","40",Guanacaste,Pocosol,X Punto,01/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",398.76,6786.49
+"42","14","39",Rincon de la Vieja,Santa Maria,canopy,01/04/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",312.24,4088.26
+"43","13","38",Santa Rosa,Santa Rosa,La Bolsa,30/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",2370.54,236317.6
+"44","12","37",Santa Rosa,Murcielago,Los Cabros,30/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",2589.26,150831.3
+"45","11","36",Guanacaste,Pocosol,Centeno,26/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",4383.17,253607.55
+"46","10","35",Guanacaste,El Hacha,El Amo,26/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",6461.33,1144042.72
+"47","9","34",Guanacaste,Pocosol,X Punto,23/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",1190.62,56656.5
+"48","7","32",Guanacaste,Pocosol,El Escondido,17/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",176.29,2130.18
+"49","6","31",Guanacaste,El Hacha,Animas,14/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",1191.13,55228.87
+"50","5","30",Guanacaste,El Hacha,Llanos Orosi,07/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",13912.32,4746979.31
+"51","4","29",Guanacaste,Pocosol,La Lucha,06/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",619.55,15217.29
+"52","3","28",Guanacaste,El Hacha,La Guitarra,02/03/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",1430.35,76372
+"53","2","27",Guanacaste,Pocosol,Loma Teja,20/02/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",1460.08,99184.95
+"54","1","26",Guanacaste,El Hacha,Ceferino,09/02/1998,incendios_acg_1998_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1998_crtm05.shp,"1998",3670.05,282767.07
+"55","1","55",Santa Rosa,Murcielago,Cerros La Pita,14/03/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",2170.01,143021.35
+"56","2","56",Santa Rosa,Murcielago,Cerros La Draga,18/03/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",688.75,12107.03
+"57","3","57",Guanacaste,Pocosol,Chumico,23/03/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",1554.84,62486.18
+"58","4","58",Guanacaste,El Hacha,Genova,24/03/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",564.9,13461.8
+"59","5","59",Guanacaste,Cacao,San Jocecito,11/04/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",441.68,9330.98
+"60","6","60",Guanacaste,Pocosol,Las Tecas,12/04/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",5809.83,1326916.24
+"61","8","62",Santa Rosa,Murcielago,Cerros La Pava,20/04/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",6719.19,1870327.88
+"62","9","63",Santa Rosa,Murcielago,Playa Blanca,29/04/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",2370.55,128557.22
+"63","7","61",Rincon de la Vieja,Pailas,Aguas Termales,13/04/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",1725.02,82362.73
+"64","10","64",Guanacaste,El Hacha,Aguas Termales,09/05/1999,incendios_acg_1999_crtm05,/home/esteban/Desktop/ACG/incendios_acg_1999_crtm05.shp,"1999",853.74,38336.24
+"65","1","65",Guanacaste,Pocosol,San Jocecito,23/01/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",6225.95,1334054.6
+"66","3","67",E.E.F. Horizontes,Horizontes,La Dama,24/01/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",3099.55,148354.17
+"67","4","68",Santa Rosa,Santa Rosa,Los Perros,30/01/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2449.64,83306.72
+"68","5","69",Santa Rosa,Murcielago,El Hachal,13/02/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",424.56,3228.47
+"69","6","70",E.E.F. Horizontes,Horizontes,San Luis,25/02/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",895.98,41593.4
+"70","7","71",Santa Rosa,Murcielago,Cerros La Pava,07/03/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",5237.89,1349595.79
+"71","8","72",E.E.F. Horizontes,Horizontes,La Esperanza,11/03/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1591.75,93323.15
+"72","9","73",Santa Rosa,Murcielago-Santa Elena,Cerro El Ingles,04/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",9029.96,4164223.04
+"73","10","74",Santa Rosa,Murcielago,Cerros La Draga,06/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2954.37,305695.19
+"74","11","75",R.N.V.S. Bahia Junquillal,Junquillal,Junquillal,08/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",3026.71,259011.26
+"75","12","76",Guanacaste,El Hacha,Genova,22/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",497.52,6719.41
+"76","13","77",Santa Rosa,Santa Rosa,Los Perros,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2560.14,169809.56
+"77","13","77",Santa Rosa,Santa Rosa,Los Perros,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1583.01,94216.73
+"78","13","77",Santa Rosa,Santa Rosa,La Tanqueta,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2747.82,247855.27
+"79","13","77",Santa Rosa,Santa Rosa,Jengiblar,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2882.77,239770.83
+"80","13","77",Santa Rosa,Santa Rosa,La Penca,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1606.9,61211.01
+"81","13","77",Santa Rosa,Santa Rosa,Los Perros,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1284.38,24452.24
+"82","13","77",Santa Rosa,Santa Rosa,Perros Vaca Blanca,26/04/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",14243.64,2113580.68
+"83","14","78",Santa Rosa,Santa Elena,El Avion,03/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",4368.77,325458.54
+"84","15","79",Mundo Nuevo (Area Protegida),Mundo Nuevo,Cerro Gongora,08/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2619.54,201601.21
+"85","16","80",Guanacaste,Pocosol,Torrecillas,11/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1275.44,77822.22
+"86","16","80",Guanacaste,Pocosol,Torrecillas,11/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",5600.13,814079.05
+"87","16","80",Guanacaste,Pocosol,Torrecillas,11/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",2587.48,167452.62
+"88","17","81",Santa Rosa,Santa Elena,El Avion,11/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",1565.6,39711.24
+"89","2","66",Santa Rosa,Santa Elena,eL avion_La Chanchera,23/01/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",4618.61,363350.85
+"90","18","82",Rincon de la Vieja,Santa Maria,Santa Maria,13/05/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",3422.67,286290.87
+"91","19","83",Santa Rosa,Murcielago,Santa Elena,08/07/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",6196.64,2251080.49
+"92","20","84",Santa Rosa,Area Marina Protegia,Isla San Jose,02/12/2000,incendios_acg_2000_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2000_crtm05.shp,"2000",3752.09,323535.61
+"93","6","90",Rincon de la Vieja,Santa Maria,Aguas Termales,16/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",2764.73,135567.17
+"94","1","85",Santa Rosa,Santa Elena,El Avion,01/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",3090.8,281015.66
+"95","12","96",Santa Rosa,Murcielago,Playa Blanca,17/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",14430.19,4880890.98
+"96","5","89",Santa Rosa,Santa Rosa,Platanares,15/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",6544.66,1104779.09
+"97","25","109",Guanacaste,Pitilla,Pitilla,18/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1169.08,26088.68
+"98","13","97",Santa Rosa,Santa Rosa,Los Perros,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",5605.66,914531
+"99","13","97",Santa Rosa,Santa Rosa,Los Perros,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",6660.3,664825.98
+"100","13","97",Santa Rosa,Santa Rosa,Los Perros,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",11060.76,2598693.75
+"101","13","97",Santa Rosa,Santa Rosa,Los Perros,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",2944.42,212771.67
+"102","22","106",Mundo Nuevo,Mundo Nuevo,La Perla2,13/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1277.41,34068.25
+"103","19","103",Mundo Nuevo,Mundo Nuevo,La Perla,30/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1205.11,68758.5
+"104","24","108",Guanacaste,El Hacha,Genova,17/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",851.28,25442.92
+"105","2","86",Guanacaste,Pocosol,Guanacastillo,07/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",34517.23,13763537.95
+"106","17","101",Guanacaste,Pocosol,Loma Coyote,21/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",7072.05,1476770.52
+"107","7","91",Santa Rosa,Santa Rosa,Las Vallas,06/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",5785.48,1701392.54
+"108","4","88",Guanacaste,Pocosol,Las Tecas,10/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",398.68,8229.96
+"109","21","105",Guanacaste,El Hacha,Laguna Guayabal,12/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",8738.66,2038575.76
+"110","3","87",Santa Rosa,Santa Elena,La Chanchera,09/02/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1476.1,55085.97
+"111","23","107",Santa Rosa,Santa Rosa,La Bolsa,14/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",2307.05,304888.22
+"112","11","95",Junquillal,Junquillal,Junquillal,13/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",588.81,10113.23
+"113","20","104",Guanacaste,El Hacha,Genova,08/05/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",879.45,46557.04
+"114","14","98",Guanacaste,El Hacha,Genova,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1353.02,48038.17
+"115","9","93",Guanacaste,El Hacha,Genova,07/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",1506.76,66141.79
+"116","15","99",Guanacaste,Pocosol,Maritza,20/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",559.43,12349.67
+"117","10","94",Santa Rosa,Murcielago,Cerros Hachal,08/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",2402.93,187247.71
+"118","16","100",Santa Rosa,Santa Elena,El Avion,21/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",6350,1185834.06
+"119","8","92",Santa Rosa,Santa Elena,El Avion,06/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",8695.45,1304077.37
+"120","18","102",Rincon de la Vieja,Santa Maria,Los Abandonos,25/04/2001,incendios_acg_2001_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2001_crtm05.shp,"2001",3653.4,175088.96
+"121","1","110",Santa Rosa,Murcielago,Playa Blanca,21/03/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",2882.55,178669.95
+"122","13","122",Santa Rosa,Santa Rosa,Los Perros,17/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",8277.79,2435450.69
+"123","13","122",Santa Rosa,Santa Rosa,Los Perros,17/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",9290.2,564875.65
+"124","13","122",Santa Rosa,Santa Rosa,Los Perros,17/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1070.99,49090.29
+"125","11","120",Santa Rosa,Santa Elena,El Avion,07/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",4954.56,313156.86
+"126","14","123",Santa Rosa,Murcielago,La Draga,19/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1279.36,46043.82
+"127","2","111",Santa Rosa,Santa Elena,La Chanchera,27/03/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",2019.05,169379.75
+"128","10","119",Santa Rosa,Santa Rosa,La Bolsa,06/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",3375.82,224057.38
+"129","4","113",Junquillal,Junquillal,Junquillal,29/03/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1824.46,106005.97
+"130","7","116",Junquillal,Junquillal,Junquillal,26/04/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1131.17,30992.06
+"131","12","121",Santa Rosa,Santa Rosa,Cuita de Mono,16/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",2889.5,160100.36
+"132","3","112",Carrizal,Carrizal,Carrizal,28/03/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1155.43,30138.65
+"133","8","117",Santa Rosa,Santa Elena,El Avion,04/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",5127.71,434550.01
+"134","5","114",Santa Rosa,Santa Elena,El Avion,29/03/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",1515.62,78113.17
+"135","6","115",Santa Rosa,Santa Elena,El Avion,13/04/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",5807.55,629587.01
+"136","9","118",Guanacaste,El Hacha,Animas,05/05/2002,incendios_acg_2002_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2002_crtm05.shp,"2002",749,20059.99
+"137","29","152",Guanacaste,Pocosol,X Punto,11/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",4342.45,723080.34
+"138","14","137",E.E.F. Horizontes,Horizontes,Vaca Blanca,01/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",6259.02,1010264.55
+"139","12","135",Santa Rosa,Santa Elena,El Avion,12/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",5018.38,661447.13
+"140","16","139",Santa Rosa,Santa Elena,Respingue,05/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",5132.08,955482.74
+"141","1","124",Guanacaste,Orosi,Maritza,12/01/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",2816.66,249399.36
+"142","28","151",Santa Rosa,Murcielago,Playa Blanca,07/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",2689.07,314079.97
+"143","26","149",Santa Rosa,Murcielago,Playa Blanca,04/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",4078.37,312138.56
+"144","4","127",Santa Rosa,Santa Elena,Santa Elena,25/01/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1089.83,62391.79
+"145","10","133",Santa Rosa,Santa Elena,Santa Elena,10/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",559.25,9046.88
+"146","27","150",Guanacaste,Pocosol,X Punto,06/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1225.93,58028.29
+"147","23","146",Guanacaste,Pocosol,X Punto,01/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1100.5,59026.26
+"148","18","141",E.E.F. Horizontes,Horizontes,Madera,18/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",5952.58,1264169.54
+"149","15","138",Guanacaste,El Hacha,Genova,02/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",3181.03,385077.25
+"150","17","140",Guanacaste,Pocosol,Las Tecas,16/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",521.42,12009.74
+"151","3","126",E.E.F. Horizontes,Horizontes,La Chancha,23/01/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1700.54,159173.76
+"152","11","134",Santa Rosa,Santa Elena,La Chanchera,10/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",3857.73,367118.28
+"153","5","128",Mundo Nuevo,Mundo Nuevo,Guayabal,29/01/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",2996.19,97241.76
+"154","24","147",Guanacaste,El Hacha,Genova,02/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1927.52,138139.07
+"155","8","131",Guanacaste,El Hacha,Genova,07/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",855.66,19056.44
+"156","7","130",Guanacaste,El Hacha,Genova,02/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",4154.59,417000.93
+"157","9","132",Santa Rosa,Santa Elena,Santa Elena,09/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1285.35,68932.15
+"158","2","125",Guanacaste,El Hacha,El Amo,12/01/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1749.28,115145.73
+"159","20","143",E.E.F. Horizontes,Horizontes,El Saltillo,24/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",792.23,37086.39
+"160","22","145",Santa Rosa,Santa Elena,El Avion,01/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",6131.04,1406398.83
+"161","25","148",Santa Rosa,Murcielago,Cerros la Pava,04/05/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",6926.97,2162303.99
+"162","19","142",Mundo Nuevo,Mundo Nuevo,Cerro Gongora,18/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",2840.27,265180.7
+"163","13","136",Mundo Nuevo,Mundo Nuevo,Cerro Gongora,27/03/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",3932.89,644385.63
+"164","21","144",Guanacaste,Carrizal,Carrizal,27/04/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1677.52,80030.06
+"165","6","129",Guanacaste,El Hacha,Genova,01/02/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",529.86,13155.06
+"166","30","153",Santa Rosa,Murcielago,La Draga,02/06/2003,incendios_acg_2003_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2003_crtm05.shp,"2003",1424.12,99063.98
+"167","13","166",Santa Rosa,Santa Rosa,Genjiblar,17/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",6586.32,1569552.8
+"168","13","166",Santa Rosa,Santa Rosa,Tanqueta,17/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",2982.37,488687.9
+"169","13","166",Santa Rosa,Santa Rosa,Los Perros,17/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",8533.38,1859513.06
+"170","13","166",Santa Rosa,Santa Rosa,Los Perros,17/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",9728.97,3909580.66
+"171","5","158",Guanacaste,El Hacha,El Hacha,26/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3983.35,568359.05
+"172","11","164",E.E.F. Horizontes,Horizontes,San Luis,10/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3269.26,307067.69
+"173","11","164",E.E.F. Horizontes,Horizontes,San Luis,10/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",653.09,20097.82
+"174","1","154",Guanacaste,Pocosol,Maritza,01/02/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",1315.69,83048.19
+"175","15","168",Guanacaste,El Hacha,Genova,18/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",1741.6,165062.35
+"176","7","160",Rincon de la Vieja,Santa Maria,Santa Maria,27/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3180.15,377320.19
+"177","16","169",Santa Rosa,Santa Elena,La Calera,19/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",572.88,15030.52
+"178","6","159",Guanacaste,Pitilla,La Pasmompa,27/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",857.04,20014.49
+"179","20","173",E.E.F. Horizontes,Horizontes,La Esperanza,12/05/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3667.06,318427.69
+"180","2","155",Santa Rosa,Murcielago,La Draga,10/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",10335.16,4130336.52
+"181","18","171",Santa Rosa,Santa Rosa,La Bolsa,05/05/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",585.98,15020.84
+"182","3","156",Guanacaste,El Hacha,Genova,20/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",1378.15,68094.36
+"183","19","172",Guanacaste,El Hacha,Genova,07/05/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",2930.32,234047.18
+"184","8","161",Guanacaste,El Hacha,El Amo,31/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",4203.88,770913.87
+"185","4","156",Guanacaste,El Hacha,Laguna Guayabal,26/03/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",5761.75,1266441.19
+"186","10","163",Santa Rosa,Santa Rosa,Cuatro Esquinas,10/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",1125.64,57013.43
+"187","21","174",Santa Rosa,Murcielago,Cerros la Pava,13/05/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3560.86,736235.24
+"188","12","165",Mundo Nuevo,Mundo Nuevo,Cerro Gongora,13/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",4296.2,706615.59
+"189","14","167",Santa Rosa,Santa Elena,El Avion,17/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3889.31,559094.38
+"190","9","162",Santa Rosa,Santa Elena,El Avion,06/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",4932.79,960366.52
+"191","17","170",Rincon de La Vieja,Santa Maria,Abandonos,29/04/2004,incendios_acg_2004_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2004_crtm05.shp,"2004",3127.7,284223.81
+"192","10","184",Rincon de la Vieja,Santa Maria,Abandonos,09/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1461.82,40415.6
+"193","7","181",Sector Mundo Nuevo,Mundo Nuevo,Punta Plancha,26/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",670.16,11688.02
+"194","18","192",Sector Mundo Nuevo,Mundo Nuevo,La Perla,20/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1014.49,36004.71
+"195","2","176",Guanacaste,El Hacha,Genova,25/02/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",985.47,46107.26
+"196","1","175",Guanacaste,El Hacha,Genova,22/02/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",643.74,9634.09
+"197","11","185",Sector Mundo Nuevo,Mundo Nuevo,La Perla,14/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1122.86,29764.12
+"198","17","191",Rincon de la Vieja,Santa Maria,Loma Atravesada,20/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1631.03,55718.21
+"199","4","178",E.E.F. Horizontes,Horizontes,Las Mesas,08/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",2159.19,191700.48
+"200","3","177",E.E.F. Horizontes,Horizontes,Las Mesas,05/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",6930.16,2062817.75
+"201","16","190",Santa Rosa,Murcielago,La Draga,19/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",4720.68,313764.74
+"202","12","186",R.N.V.S. Bahia Junquillal,Junquillal,Junquillal,15/04/2004,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",264.63,2701.39
+"203","8","182",R.N.V.S. Bahia Junquillal,Junquillal,Junquillal,31/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",25.43,32.01
+"204","19","193",Guanacaste,El Hacha,Genova,20/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1631.92,63415.02
+"205","13","187",Santa Rosa,Santa Elena,El Avion,17/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",12253.55,3481367.73
+"206","15","189",Guanacaste,El Hacha,El Amo,18/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",6510.2,1665439.83
+"207","20","194",Santa Rosa,Santa Rosa,Cuatro Esquinas,29/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1168.58,47120.93
+"208","9","183",Santa Rosa,Murcielago-Santa Elena,Ingles-la Pava,06/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",2.28,0.05
+"209","6","180",Sector Mundo Nuevo,Mundo Nuevo,Cerro Gengora,20/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",2679.77,199237.71
+"210","5","179",Sector Mundo Nuevo,Mundo Nuevo,Cerro Gengora,17/03/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",1533.41,84253.2
+"211","14","188",Guanacaste,Carrizal,Carrizal,17/04/2005,incendios_acg_2005_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2005_crtm05.shp,"2005",5226.76,1413722.53
+"212","7","201",Guanacaste,Santa Rosa,La Yenni,17/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",945.35,28421.23
+"213","3","197",Guanacaste,Pocosol,X Punto,07/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",8854.2,1661043.55
+"214","13","207",Rincon de la Vieja,Santa Maria,Loma Atravesada,25/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1160.56,59519.19
+"215","11","205",Rincon de la Vieja,Santa Maria,Abandonos,19/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1912.24,86784.99
+"216","10","204",Santa Rosa,Santa Elena,La Chanchera,19/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",3103.99,202704.68
+"217","24","218",Santa Rosa,Santa Elena,El Avion,14/05/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",752,21967.26
+"218","24","218",Santa Rosa,Santa Elena,El Avion,14/05/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",348.85,4489.86
+"219","14","208",Santa Rosa,Santa Elena,Alacran,28/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1517.81,64050.67
+"220","17","211",E.E.F. Horizontes,Horizontes,San Luis,13/04/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",6517.24,1332511.54
+"221","2","196",Guanacaste,Pocosol,X Punto,03/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",3620.06,198011.6
+"222","4","198",Guanacaste,El Hacha,Genova,11/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",3087.32,412480.06
+"223","1","195",Santa Rosa,Santa Rosa,Los Perros,19/02/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1126.45,26930.77
+"224","1","195",Santa Rosa,Santa Rosa,Los Perros,19/02/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1104.15,56322.75
+"225","21","215",Santa Rosa,Santa Rosa,La Pitahaya,03/05/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1123.7,28583.81
+"226","22","216",Guanacaste,El Hacha,La Guitarra,05/05/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",4891.79,597608.93
+"227","20","214",Santa Rosa,Murcielago-Santa Elena,La Draga,28/04/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",10316.81,2829783.69
+"228","5","199",Santa Rosa,Murcielago-Santa Elena,La Draga,12/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",2485.35,310672.36
+"229","15","209",Guanacaste,Pocosol,Hacha Evangelista,28/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",4454.64,637946.05
+"230","9","203",Guanacaste,El Hacha,Genova,18/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1631.92,63420.3
+"231","19","213",Guanacaste,El Hacha,Genova,23/04/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",2079.29,141005.63
+"232","18","212",Guanacaste,El Hacha,Genova,17/04/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",3520.87,363384.95
+"233","8","202",Guanacaste,El Hacha,Genova,17/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",597.67,10660.66
+"234","16","210",Santa Rosa,Santa Elena,El Avion,28/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",13024.1,2973200.93
+"235","6","200",Guanacaste,El Hacha,Ceferino,13/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",10250.2,1556094.36
+"236","12","206",Santa Rosa,Santa Rosa,Cuatro Esquinas,24/03/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",1074.1,30366.43
+"237","23","217",Santa Rosa,Murcielago,Cerro La Pita,08/05/2006,incendios_acg_2006_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2006_crtm05.shp,"2006",2352,159206.09
+"238","13","231",Guanacaste,Pocosol-El Hacha,Juanislama-X Punto,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",19687.23,12275620.96
+"239","13","231",Guanacaste,Pocosol-El Hacha,Juanislama-X Punto,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",3074.41,293527.57
+"240","13","231",Gaunacaste,Pocosol-El Hacha,Juanislama-X Punto,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",8026.98,945634.96
+"241","13","231",Guanacaste,Pocosol-El Hacha,Juanislama-X Punto,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",839.32,27936.07
+"242","2","220",Santa Rosa,Santa Elena,Santa Elena,30/01/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",338.54,2749.3
+"243","21","239",Rincon de la Vieja,Santa Maria,Abandonos,21/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1207.81,70608.06
+"244","11","229",E.E.F. Horizontes,Horizontes,San Luis,27/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",3574.37,283779.83
+"245","10","228",Santa Rosa,Murcielago-Santa Elena,Limite Tomas Ardilla,27/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",2718,227770.6
+"246","14","232",Sector Mundo Nuevo,Mundo Nuevo,La Perla,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",782.27,27111.99
+"247","14","232",Sector Mundo Nuevo,Mundo Nuevo,La Perla,30/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1830.09,170291.61
+"248","9","227",E.E.F. Horizontes,Horizontes,Las Mesas,18/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",9346.46,2584958.47
+"249","4","222",E.E.F. Horizontes,Horizontes,La Esperanza,02/02/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1280.17,42537.62
+"250","1","219",E.E.F. Horizontes,Horizontes,La Esperanza,26/01/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",2405.26,279160.34
+"251","7","225",Santa Rosa,Murcielago,La Draga,08/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1235.52,61971.68
+"252","5","223",Santa Rosa,Santa Elena,La Chanchera,03/02/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",4536.1,490062.26
+"253","8","226",Guanacaste,El Hacha,Lomas la Lucha,12/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",6231.49,1131227.26
+"254","18","236",Guanacaste,El Hacha,Genova,14/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1037.16,14641.08
+"255","18","236",Guanacaste,El Hacha,Genova,14/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1021.56,37341.86
+"256","18","236",Guanacaste,El Hacha,Genova,14/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",829.67,15743.11
+"257","6","224",Guanacaste,El Hacha,Genova,08/02/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",248.37,2488
+"258","19","237",Guanacaste,El Hacha,Genova,15/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",2131.45,90091.35
+"259","16","234",Guanacaste,El Hacha,Genova,31/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",2015.14,64331.28
+"260","3","221",E.E.F. Horizontes,Horizontes,La Esperanza,01/02/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",532.49,8800.66
+"261","17","235",Santa Rosa,Santa Elena,El Avion,01/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",8467.43,2205031.67
+"262","22","240",Santa Rosa,Santa Rosa,Cuatro Esquinas,29/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1342.23,46757.63
+"263","23","241",Santa Rosa,Murcielago,El Ingles,06/05/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",1321.25,44694.74
+"264","20","238",Guanacaste,Carrizal,Carrizal,18/04/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",5416.98,1154988.3
+"265","12","230",Guanacaste,El Hacha,Animas,27/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",525.51,10868.51
+"266","15","233",Guanacaste,El Hacha,Amo-Agua Buena,31/03/2007,incendios_acg_2007_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2007_crtm05.shp,"2007",16079.31,7154850.26
+"267","5","246",Rincon de la Vieja,Santa Maria,Abandonos,13/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",2556.68,128469.91
+"268","5","246",Rincon de la Vieja,Santa Maria,Abandonos,13/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",550.72,17885.84
+"269","5","246",Rincon de la Vieja,Santa Maria,Abandonos,13/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",206.38,2162.59
+"270","3","244",Santa Rosa,Santa Elena,Santa Elena,21/03/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",955.82,42137.78
+"271","15","256",Santa Rosa,Santa Elena,El Avion,14/05/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",2057.69,116539.74
+"272","6","247",Santa Rosa,Santa Elena,Santa Elena,14/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",1226.52,47405.18
+"273","16","257",Santa Rosa,Murcielago,Playa Blanca,18/05/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",1637.3,73996.67
+"274","16","257",Santa Rosa,Murcielago,Playa Blanca,18/05/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",8259.52,927328.76
+"275","7","248",Santa Rosa,Santa Rosa,Los Perros,16/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",11583.31,2529636.71
+"276","7","248",Santa Rosa,Santa Rosa,Los Perros,16/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",23431.72,6498112.92
+"277","9","250",E.E.F. Horizontes,Horizontes,La Esperanza,18/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",5883.54,866936.29
+"278","4","245",Santa Rosa,Murcielago,La Draga,30/03/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",14520.91,6444857.57
+"279","4","245",Santa Rosa,Murcielago,La Pita,30/03/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",4698.54,449527.85
+"280","2","243",Santa Rosa,Santa Elena,La Chanchera,21/03/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",3155.26,287874.09
+"281","10","251",E.E.F. Horizontes,Horizontes,Loma Larga,19/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",3853.13,230822.79
+"282","11","252",E.E.F. Horizontes,Horizontes,La Chancha,19/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",1289.24,76403.54
+"283","18","259",Guanacaste,El Hacha,El Hacha,03/08/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",3905.08,424522.14
+"284","6","247",Santa Rosa,Santa Rosa,Alto Centeno,14/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",273.62,3369.62
+"285","12","253",Santa Rosa,Santa Elena,El Avion,22/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",4729.56,389053.03
+"286","14","255",Guanacaste,El Hacha,El Amo,01/05/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",1514.31,116727.88
+"287","13","254",Santa Rosa,Santa Elena,Corta Fuego El Avi�n,24/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",1261.59,57302.02
+"288","1","242",Santa Rosa,Murcielago,Cerro La Pava,19/03/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",10333.26,3955429.86
+"289","17","258",Guanacaste,El Hacha,Cerro El Hacha,20/05/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",4731.82,522738.5
+"290","8","249",Guanacaste,El Hacha,Animas,16/04/2008,incendios_acg_2008_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2008_crtm05.shp,"2008",2049.07,73870.98
+"291","1","260",Santa Rosa,Santa Elena,El Avion1,15/02/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",7242.52,1441872.87
+"292","2","261",Sector Mundo Nuevo,Mundo Nuevo,Limite Agua Fria,25/02/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",931.41,30971.57
+"293","3","162",Santa Rosa,Santa Elena,El Avion2,13/03/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",2469.33,219822.18
+"294","4","263",Guanacaste,El Hacha,Animas,31/03/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",3554.69,276672.64
+"295","7","266",Guanacaste,El Hacha,Genova1-1,13/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1451.33,29412.07
+"296","7","266",Guanacaste,El Hacha,Genova1-2,13/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1993.44,89743.66
+"297","6","265",Santa Rosa,Santa Rosa,Las Vallas,01/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",2842.01,300019.3
+"298","5","264",Guanacaste,El Hacha,Genova2,19/04/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",2905.5,332336.14
+"299","10","269",Santa Rosa,Santa Elena,La Calera,18/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1659.21,93746.88
+"300","11","270",Guanacaste,Orosi,Tiquiscal,26/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",505.24,14086.48
+"301","12","271",Guanacaste,El Hacha,Cerro El Hacha,26/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",307.94,4699.98
+"302","8","267",Rincon de La Vieja,Santa Maria,Aguas Termales,14/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1609.06,38894.42
+"303","9","268",Rincon de La Vieja,Santa Maria,Abandonos,15/05/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1591.84,92822.07
+"304","13","272",Guanacaste,El Hacha,Laguna Guayabal,18/12/2009,incendios_acg_2009_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2009_crtm05.shp,"2009",1181,64511.72
+"305","1","273",Guanacaste,Pocosol,X Punto,24/01/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",678.13,16900.33
+"306","2","274",Guanacaste,Pocosol,X Punto,17/02/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",926.4,36905.46
+"307","3","275",Sector Mundo Nuevo,Mundo Nuevo,El Pilon,28/02/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",3232.15,453226.52
+"308","4","276",Santa Rosa,Santa Elena,La Chanchera,25/03/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",975.87,30224.48
+"309","5","277",R.V. Bahia Junquillal,Junquillal,Junquillal,30/03/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",1556.97,107822.79
+"310","6","278",Santa Rosa,Santa Elena,El Avion,04/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",10619.45,1430242.5
+"311","7","279",Guanacaste,Pocosol,X Punto,04/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",11359.82,1959141.77
+"312","8","280",E.E.F. Horizontes,Horizontes,Vaca Blanca,06/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",3893.3,634619.46
+"313","9","281",Sector Mundo Nuevo,Mundo Nuevo,Limite Aguas Frias,06/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",5948.99,810083.06
+"314","12","284",Guanacaste,El Hacha,Laguana Guayabal,12/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",5570.32,1457013.57
+"315","13","285",R.V. Bahia Junquillal,Junquillal,Junquillal,12/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",434.58,7025.99
+"316","14","286",Santa Rosa,Santa Rosa,Chiringon,15/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",1160.15,68488.72
+"317","16","288",Santa Rosa,Murcielago,Limite Tomas Ardilla,18/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",1461.48,75590.38
+"318","17","289",Guanacaste,El Hacha,Agua Buena,19/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",718.31,24829.62
+"319","18","290",Santa Rosa,Santa Elena,La Calera,21/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",3020.77,264383.85
+"320","19","291",Santa Rosa,Santa Elena,La Draga,21/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",4023.94,362400.03
+"321","20","292",Guanacaste,El Hacha,La Guitarra,25/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",6363.58,972719.74
+"322","10","282",Guanacaste,Carrizal,Carrizal,09/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",5416.73,1175442.8
+"323","15","287",Guanacaste,El Hacha,Genova,18/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",712.69,25384.39
+"324","21","293",Guanacaste,El Hacha,Agua Buena,15/05/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",3998.99,181782.65
+"325","11","283",Guanacaste,El Hacha,El amo,09/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",1326.06,68070.51
+"326","11","283",Guanacaste,El Hacha,El amo,09/04/2010,incendios_acg_2010_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2010_crtm05.shp,"2010",1072.29,47201.1
+"327","3","296",Santa Rosa,Santa Elena,El Avion,09/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1558.75,50784.23
+"328","15","308",Santa Rosa,Murcielago,Playa Blanca,29/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",5025.96,643902.84
+"329","14","307",Santa Rosa,Murcielago,Playa Blanca,27/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",4497.85,577081.26
+"330","2","295",Santa Rosa,Santa Elena,La Draga,18/02/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1344.62,64318.77
+"331","19","312",Santa Rosa,Murcielago-Santa Elena,La Draga,10/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",6607.05,735169.89
+"332","1","294",Santa Rosa,Santa Elena,La Chanchera,02/02/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",2956,200059.19
+"333","16","309",Santa Rosa,Santa Elena,Gengiblar,02/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",2860.68,124371.25
+"334","16","309",Santa Rosa,Santa Elena,Gengiblar,02/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",670.64,23544.64
+"335","8","301",Santa Rosa,Murcielago,El Hachal,31/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1937.77,80309.46
+"336","7","300",Santa Rosa,Murcielago,El Hachal,30/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",3502.81,439392.76
+"337","6","299",Santa Rosa,Murcielago,El Hachal,28/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1196.26,50007.41
+"338","9","302",Santa Rosa,Santa Elena,El Avion,10/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",8194.74,1441865.98
+"339","13","306",R.V.S. Bahia Junquillal,Junquillal,Junquillal,22/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",2695.58,196723.46
+"340","17","310",R.V.S. Bahia Junquillal,Junquillal,Junquillal,04/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1076.31,26369.44
+"341","17","310",R.V.S. Bahia Junquillal,Junquillal,Junquillal,04/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1138.75,40423.59
+"342","10","303",E.E.F. Horizontes,Horizontes,Las Mesas,14/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",2635.02,308490.01
+"343","4","297",E.E.F. Horizontes,Horizontes,La Esperanza,18/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",2441.14,170082.27
+"344","5","298",E.E.F. Horizontes,Horizontes,La Chancha,22/03/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",710.72,16365.85
+"345","12","305",Guanacaste,Pocosol,X Punto,21/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1680.37,84440.26
+"346","11","304",Guanacaste,Pocosol,X Punto,21/04/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",1312.38,75694.72
+"347","18","311",Guanacaste,El Hacha,Amo-Carrizal,05/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",7575.96,2011654.88
+"348","18","311",Guanacaste,El Hacha,Amo-Carrizal,05/05/2011,incendios_acg_2011_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2011_crtm05.shp,"2011",4111.34,392246.61
+"349","12","324",Santa Rosa,Murcielago,Playa Blanca,19/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",3288.69,200595.18
+"350","5","317",Santa Rosa,Murcielago-santa,Ingles-Pava,20/03/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",22733.76,8975459.21
+"351","11","323",Santa Rosa,Santa Rosa,Cuatro Esquinas2,16/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",3595.14,305442.67
+"352","3","315",Santa Rosa,Santa Rosa,Cuatro Esquinas1,10/03/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",1044.81,37947.11
+"353","14","326",Mundo Nuevo,Mundo Nuevo,llano Jicaro1-1,24/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",969.77,26184.89
+"354","14","326",Mundo Nuevo,Mundo Nuevo,llano Jicaro1-2,24/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",2029.86,55069.8
+"355","6","318",Mundo Nuevo,Mundo Nuevo,Limite Aguas Fri,22/03/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",2038.77,135503.8
+"356","9","321",Junquillal,Junquillal,Junquillal,10/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",3547.64,267153.73
+"357","2","314",Sector Horizonte,Horizontes,Saravia,29/02/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",989.2,31089.45
+"358","16","328",Sector Horizonte,Horizontes,San luis,03/05/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",4860.09,452169.32
+"359","1","313",Sector Horizonte,Horizontes,Limite el Jobo,26/02/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",2561.14,147369.15
+"360","7","319",Sector Horizonte,Horizontes,Cevadilla,28/03/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",1929.97,51520.44
+"361","10","322",Sector Horizonte,Horizontes,La Esperanza2,12/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",2216.77,204840.68
+"362","4","316",Sector Horizonte,Horizontes,La Esperanza1,10/03/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",2613.03,101445.21
+"363","15","327",Guanacaste,Pocosol,La Lucha,02/05/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",1255.61,35990.44
+"364","15","327",Guanacaste,Pocosol,La Lucha,02/05/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",7792.66,1439441.31
+"365","8","320",Guanacaste,El Hacha,Genova,08/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",913.4,47974.68
+"366","13","325",Guanacaste,El Hacha,Ceferino,21/04/2012,incendios_acg_2012_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2012_crtm05.shp,"2012",3841.13,377573.6
+"367","27","356",Santa Rosa,Santa Elena,El Avion,23/05/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",3553.91,311407.01
+"368","26","355",Santa Rosa,Santa Elena,Santa Elena,20/05/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2308.65,216260.35
+"369","15","344",Santa Rosa,Santa Rosa,Platanares,14/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2731.2,371860.29
+"370","5","334",Santa Rosa,Santa Elena,Rabo de Mico,23/02/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1911.31,85924.13
+"371","3","332",Santa Rosa,Santa Rosa,Los Perros,15/02/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1131.22,40954.06
+"372","1","329",Santa Rosa,Santa Rosa,Los Perros,06/01/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2241.11,77258.43
+"373","1","330",Santa Rosa,Santa Rosa,Los Perros,06/01/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",975.13,14445.68
+"374","13","342",Santa Rosa,Santa Rosa,Las Vallas,10/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",8286.21,1436783.99
+"375","9","338",Santa Rosa,Santa Rosa,Las Vallas,05/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",4931.64,809887.57
+"376","25","354",Santa Rosa,Santa Rosa,Las Mesas,08/05/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2293.55,231943.85
+"377","8","337",Santa Rosa,Santa Elena,La Draga,05/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",20215.92,12108182.92
+"378","4","333",Santa Rosa,Santa Elena,La Chanchera,17/02/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1034.45,33982.12
+"379","7","336",Santa Rosa,Santa Rosa,Cuatro Esquinas,05/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",5820.76,1145013.96
+"380","17","346",Rincon de la Vie,Pailas,Hornillas,18/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",7695.46,2519724.69
+"381","6","335",Mundo Nuevo,Mundo Nuevo,Llano Jicaro,22/03/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",4596.48,847439.11
+"382","20","349",Mundo Nuevo,Mundo Nuevo,La Perla,26/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1301.27,94263.77
+"383","16","345",Mundo Nuevo,Mundo Nuevo,Abandonos,18/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",11368.59,3030278.03
+"384","24","353",R.N.V.S. Bahia J,Junquillal,Junquillal,04/05/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",507.11,15325.52
+"385","12","341",E.E.F. Horizonte,Horizontes,San Luis,08/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",8168.88,1948597.46
+"386","14","343",E.E.F. Horizonte,Horizontes,Maranonal,12/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",566.93,7078.28
+"387","18","347",Guanacaste,El Hacha,Genova,19/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1232.52,56144.22
+"388","22","351",Guanacaste,El Hacha,Laguna Guayabal,27/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1092.75,59336.32
+"389","22","351",Guanacaste,El Hacha,Laguna Guayabal,27/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2869.84,306214.79
+"390","11","340",Guanacaste,El Hacha,El Amo,08/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1459.71,72928.34
+"391","2","331",Guanacaste,El Hacha,El Amo,19/01/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2663.16,165759.25
+"392","28","357",Guanacaste,El Hacha,Ceferino,23/05/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1988.61,136470.23
+"393","10","339",Guanacaste,El Hacha,Carrizal,08/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",5251.31,1106752.28
+"394","21","350",Guanacaste,El Hacha,Animas,27/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",2235.42,240425.79
+"395","19","348",Guanacaste,El Hacha,Agua Buena,21/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",906.01,36345.88
+"396","23","352",Guanacaste,El Hacha,Agua Buena,30/04/2013,incendios_acg_2013_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2013_crtm05.shp,"2013",1054.63,61252.31
+"397","1","358",Santa Rosa,Murcielago,Mairena,06/02/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",547.69,9084.28
+"398","2","359",Santa Rosa,Santa Elena,El Avion,17/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2808.75,211379.76
+"399","3","360",E.E.F. Horizontes,Horizontes,Vaca Negra,22/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2968.07,375323.32
+"400","4","361",E.E.F. Horizontes,Horizontes,Punta Plancha,29/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",13219.64,7086869.61
+"401","5","362",E.E.F. Horizontes,Horizontes,"Vaca Negra, Cortez",31/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2945.59,135462.63
+"402","5","362",E.E.F. Horizontes,Horizontes,"Vaca Negra, Cortez",31/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",16197.96,10298203.32
+"403","5","362",E.E.F. Horizontes,Horizontes,"Vaca Negra, Cortez",31/03/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",3339.87,356714.61
+"404","6","363",Guanacaste,El Hacha,Animas,02/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2832.45,251770.39
+"405","7","364",Guanacaste,El Hacha,Laguna Guayabal,02/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",5309.78,1388199.34
+"406","8","365",Santa Rosa,Santa Rosa,Las Valllas,04/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2783.27,188533.66
+"407","9","366",R.N.V.S.Bahia Junquillal,Junquillal,Junquillal1,09/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1187.84,67389.5
+"408","10","367",E.E.F. Horizontes,Horizontes,La Dama,12/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",955.8,29503.55
+"409","11","368",Guanacaste,El Hacha,Carrizal,13/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2206.3,243513.66
+"410","12","369",R.N.V.S.Bahia Junquillal,Junquillal,Junquillal2,14/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1923.8,123711.33
+"411","13","370",Santa Rosa,Murcielago,limite Tomas ardilla,19/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",843.41,28414.99
+"412","14","371",E.E.F. Horizontes,Horizontes,Saravia,19/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",6015.35,896589.1
+"413","16","373",Mundo Nuevo,Mundo Nuevo,Mundo Nuevo 1,27/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1892.82,132485.13
+"414","15","372",Mundo Nuevo,Mundo Nuevo,Mundo Nuevo 2,22/04/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1321.01,64727.43
+"415","17","374",Rincon de la Vieja,Santa Maria,Abandonos,01/05/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",513.53,14877.55
+"416","17","374",Rincon de la Vieja,Santa Maria,Abandonos,01/05/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1499.43,92354.07
+"417","18","375",Rincon de la Vieja,Santa Maria,Santa Maria,06/05/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",4094.05,277984.88
+"418","18","375",Rincon de la Vieja,Santa Maria,Santa Maria,06/05/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",1098.32,25820.54
+"419","19","376",Mundo Nuevo,Mundo Nuevo,Mundo Nuevo3,21/05/2014,incendios_acg_2014_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2014_crtm05.shp,"2014",2450.39,172865.79
+"420","1","377",Mundo Nuevo,Mundo Nuevo,Punta Plancha,18/01/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",313.62,3586.17
+"421","2","378",E.E.F. Horizonte,Horizontes,La Esperanza,15/02/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",1394.72,67259.26
+"422","3","379",Guanacaste,El Hacha,Animas,05/03/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",660.48,18663.68
+"423","4","380",Guanacaste,El Hacha,El Amo,23/03/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",558.04,7507.96
+"424","5","381",Mundo Nuevo,Mundo Nuevo,Llanos el Jicaro,03/05/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",4670.54,936282.8
+"425","6","382",Santa Rosa,Murcielago,Limite Umana,11/05/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",782.99,30598.27
+"426","7","383",Guanacaste,Orosi,El Jorco,09/06/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",379.55,6001.29
+"427","8","384",Guanacaste,El Hacha,Cerro El Hacha,09/06/2015,incendios_acg_2015_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2015_crtm05.shp,"2015",3440.81,295321.91
+"428","14","397",Guanacaste,El Hacha,Laguna Guayabal,05/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",19867.29,4488109.83
+"429","20","403",Santa Rosa,Santa Elena,Limite Umaña,19/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",675.9,24741.6
+"430","17","400",Guanacaste,El Hacha,Carrizal,06/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",4694.11,906942.49
+"431","15","398",Guanacaste,El Hacha,Animas,05/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",8542,1664343.08
+"432","19","402",Santa Rosa,Santa Helena,El Avion_chanchera,11/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",2300.95,62426.12
+"433","18","401",Santa Rosa,Santa Elena,El Avion_limite basura,11/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",455.04,6599
+"434","4","388",E_E_F_Horizontes,Horizontes,Saravia1,13/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",2248.7,174426.67
+"435","2","386",Fuera ASP,Hacienda La Marucha,La Marucha,11/02/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",4013.72,389282.05
+"436","1","385",Guanacaste,El hacha,Laguna Guayabal,10/01/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",1419.27,65173.54
+"437","3","387",E_E_F_Horizontes,Horizontes,La Esperanza,23/02/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",577.42,7550.4
+"438","5","389",Fuera ASP,Finca Leoncio Lara,Finca Leoncio Lara,13/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",1426.11,64773.3
+"439","7","390",Santa Rosa,Murcielago,Rio Calera,18/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",166.96,1212.19
+"440","13","396",Guanacaste,El Hacha,Agua Buena3,30/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",53.5,166.19
+"441","12","395",Guanacaste,El Hacha,Agua Buena2,30/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",187.67,2129.78
+"442","16","399",Guanacaste,El Hacha,Amo_Genova,05/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",28221.26,10680819.62
+"443","11","394",Guanacaste,El Hacha,Agua Buena1,30/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",672.29,18459.9
+"444","10","393",Guanacaste,El hacha,Animas,30/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",2164.94,233558.79
+"445","8","391",Sector Horizontes,Horizontes,Saravia,24/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",2307.31,226032.29
+"446","21","404",Santa Rosa,Santa Rosa,Platanares,26/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",966.36,33949.99
+"447","22","405",Santa Rosa,Santa Rosa,Platanares,26/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",190.96,1709.05
+"448","23","406",Santa Rosa,Santa Rosa,Platanares,26/04/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",136.4,1155.23
+"449","9","392",Sector Horizontes,Horizontes,La Tortuguilla,28/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",3405.17,184984.99
+"450","4","4",E_E_F_horizontes,horizontes,saravia,14/03/2016,incendios_acg_2016_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2016_crtm05.shp,"2016",1437.9,96806.48
+"451","406","1",santa rosa,santa elena,limite tomas ardilla,04/03/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",1620.3,59833.33
+"452","407","2",EEFhorizontes,horizontes,saravia,07/03/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",424.95,6849.09
+"453","408","3",EEFhorizontes,horizontes,saravia,07/03/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",215.36,1852.07
+"454","414","9",Samta Rosa,Santa Elena,El Avion,15/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",8406.3,889828.71
+"455","411","6",Santa Rosa,Santa Elena,Avion_chanchara,12/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",3380.19,253960.29
+"456","409","4",eefhorizontes,horizontes,la chancha,08/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",2545.1,188895.9
+"457","412","7",eefhorizontes,horizontes,limite polo estrada,13/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",1156.5,28588.58
+"458","413","8",eefhorizontes,horizontes,limite oriente,13/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",405.72,8536.51
+"459","410","5",eefhorizontes,horizontes,limite finca oriente,09/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",2351.38,108638.93
+"460","415","10",Guanacaste,El Hacha,Laguna Guayabal,25/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",4815.01,312204.16
+"461","417","12",Guanacaste,El Hacha,Animas,04/05/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",1168.52,40848.07
+"462","418","13",Guanacaste,El hacha,cerro el hacha,04/05/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",251.25,3338.85
+"463",,,Rincon de la Vieja,Santa maria,Abandonos,25/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",356.68,2778.65
+"464",,,Rincon de la Vieja,Santa Maria,Abandonos,31/03/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",1710.66,82006.35
+"465",,,Sector Las Delicias,Sector Las Delicias,Sector Las Delicias,20/04/2017,incendios_acg_2017_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2017_crtm05.shp,"2017",591.15,11513.15
+"466","6","428",Parcelas Cuajiniqui,Cuajiniquil,Parcela Tabin,22/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1225.85,71370.74
+"467","8","430",Sector Cuajiniquil,Cuajiniquil,Parcela de Bruno,23/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",831.91,42587.92
+"468","9","431",Sector Cuajiniquil,Cuajiniquil,Finca Santos Umaña,23/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",956.02,43798.48
+"469","1","423",Finca Carrizal,Carrizal Norte,carrizal norte,31/01/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",867.69,24512.45
+"470","3","425",Santa Rosa,Santa Elena,ElAvion(Chanchera),03/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",3401.4,394932.28
+"471","4","426",Guanacaste,Pocosol,X Punto las torres,07/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",4837.04,349055.69
+"472","5","427",Guanacaste,El Hacha,Animas,21/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",2564.31,188966.39
+"473","7","429",Guanacaste,Pocosol,X Punto las torres2,22/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",2727.85,140161.38
+"474","13","435",Guanacaste,El Hacha,Laguna Guayabal,02/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",5368.09,592704.52
+"475","14","436",Rincon de la vieja,Santa Maria,Abandonos,03/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",719.75,13031.76
+"476","16","438",Guanacaste,El Hacha,Genova,04/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",324.73,5109.71
+"477","16","438",Guanacaste,El hacha,Genova,04/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",151.24,1573.99
+"478","17","439",Colonia Bolaños,Colonia Bolaños,Ramillete,04/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1508.4,97101.32
+"479","18","440",Colonia Bolaños,Colonia Bolaños,Parcela edgar duarte,05/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",2722.38,255910.93
+"480","19","441",Parcelas Cuajiniquil,Cuajiniquil,Parcela de Tabin,07/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1526.88,100373.51
+"481","10","432",Guanacaste,Pocosol,Alta Mira,26/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1845.31,111751.99
+"482","11","433",EEF horizontes,Horizontes,Esperanza,26/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",785.99,29196.22
+"483","24","446",Sector carrizal fuera ASP,Carrizal Norte,Carrizal Norte,23/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1348.59,89375.12
+"484","23","445",Hacienda Inocentes,Hacienda Inocentes,Hacienda Inocentes,23/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1354.76,83759.62
+"485","25","447",Sector las Delicias,Las Delicias,Las Delicias,28/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",3016.6,60210.7
+"486","26","448",Colonia Bolaños,Colonia Bolaños,Parcela de Edgar Duarte,01/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1071.63,52150.33
+"487","27","449",Santa Rosa,Santa Rosa,Cuatro Esquinas,01/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",101.28,520.83
+"488","27","449",Santa Rosa,Santa Rosa,Cuatro Esquinas,01/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",586.4,11611.85
+"489","28","450",EEF Horizontes,Horizontes,La Esperanza,05/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",78.69,433.23
+"490","29","451",Santa Rosa,Murcielago,Limite Parcelas,10/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",457.46,6851.19
+"491","31","453",Sector Las Delicias,Las Delicias,La Bolsa,14/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",198.88,2699.54
+"492","31","453",Sector Las Delicias,Las Delicias,La Bolsa,14/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",500.93,14165.46
+"493","31","453",Sector Las Delicias,Las Delicias,La Bolsa,14/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1207.45,35286.38
+"494","22","444",RNVS bahia Junquillal,Junquillal,Junquillal,20/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",1228.02,18943.99
+"495","2","424",Mundo Nuevo,Mundo Nuevo,Llanos Jicaro,18/02/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",709.55,25024.55
+"496","12","434",EEF Horizontes,Horizontes,Saravia,27/03/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",575.05,19719.58
+"497","15","437",EEF Horizontes,Horizontes,San Luis,04/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",2088.29,71037.47
+"498","21","443",EEF Horizontes,Horizontes,La Esperanza,15/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",911.43,25543.51
+"499","30","452",Finca Basurita,Finca Basurita,Finca Basurita,13/05/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",3348.85,228111.67
+"500","20","442",Sector Lasdelicias,Sector Lasdelicias,Sector Lasdelicias,07/04/2018,incendios_acg_2018_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2018_crtm05.shp,"2018",560.04,13340.95
+"501","1","443",Guanacaste,Pocosol,Loma Coyote,12/01/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1448.01,65612.62
+"502","7","449",Guanacaste,El Hacha,Genova,06/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",287.88,1816.41
+"503","11","453",Guanacaste,El Hacha,El Amo,20/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",3165.32,333434.89
+"504","6","448",Horizontes,Horizontes,El  Guacimo,26/02/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1981.42,186341.93
+"505","2","444",Guanacaste,Pocosol,Entrada a Maritza,27/01/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",923.18,43909.63
+"506","4","446",Guanacaste,El Hacha,Genova,30/01/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",313.35,4740.06
+"507","19","461",Guanacaste,El Hacha,Genova Limite Bolaños,18/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1391.52,88651.41
+"508","20","462",Guanacaste,El Hacha,Genova limite colonia bolaños,18/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",2517.02,177725.12
+"509","9","451",Santa Rosa,Santa Elena,Avion (chanchera),08/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",88.56,483.24
+"510","17","459",Santa Rosa,Santa Elena,Mudo Montero,09/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1954.27,57777.2
+"511","12","454",Bahia Junquillal,Bahia Junquillal,Bahia Junquillal,23/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",591.2,14672.64
+"512","18","460",Santa Rosa,Santa Elena,Limite Santos Umana,11/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",2126.45,115633.54
+"513","15","457",Santa Rosa,Santa Elena,Chevo Lopez,06/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1468.13,89405.02
+"514","12","454",Bahia Junquillal,Bahia Junquillal,Bahia Junquillal,23/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",9410.88,3342891.97
+"515","3","445",Sctor Horizontes,Horizontes,La Esperanza,30/01/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",26.01,24.35
+"516","14","456",Rincon de la Vieja,Santa Maria,Abandonos,05/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",244.88,1957.86
+"517","21","463",Guanacaste,El Hacha,La Guitarra1,20/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",4089.51,334646.77
+"518","22","464",Guanacaste,El Hacha,La Guitarra2,21/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1975.03,169555
+"519","23","465",Guanacaste,El Hacha,La Guitarra3,21/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1401.22,63764.15
+"520","27","469",Rincon de la Vieja,Las Delicias,Las Delicias,26/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",631.65,14950.24
+"521","30","472",Rincón de la Vieja,Santa Maria,Calzon roto,02/05/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",513.7,7442.78
+"522","31","473",Guanacaste,Pocosol,X punto,10/05/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",307.13,4982.09
+"523","10","452",Samta Rosa,Samta Elena,Avion1,16/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",1662.96,40974.51
+"524","13","455",Guanacaste,El Hacha,Compostera,30/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",69.58,64.65
+"525","16","458",Santa Rosa,Santa Elena,Avion2,07/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",552.44,12669.61
+"526","5","447",Rincon de la Vieja,Santa Maria,Abandonos,02/02/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",272.43,1579.49
+"527","8","450",E.E.F. Horizontes,Horizontes,Guacimo2,08/03/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",2022.42,183245.85
+"528","24","466",Guanacaste,El Hacha,Genova,21/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",849.35,41557.32
+"529","28","470",Guanacaste,El Hacha,Animas,27/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",33.35,77.5
+"530","25","467",Guanacaste,Pocosol,sontoli,21/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",303.7,2228.58
+"531","29","471",Santa Rosa,Murcielago,Rio Mairena,01/05/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",2093.61,170137.96
+"532","26","468",Sector Mundo Nuevo,Mundo Nuevo,Llanos el Jicaro,22/04/2019,incendios_acg_2019_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2019_crtm05.shp,"2019",2823.52,478392.79
+"533","1","475",Guanacaste,Pocosol,Juanislama,26/01/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",7374.7,1601405.22
+"534","2","476",Santa Rosa,Santa Rosa,Cafetal,30/01/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",170.31,1752.06
+"535","3","477",Guanacaste,Pocosol,Alta Mira,05/02/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",825.88,20530.15
+"536","4","478",E.E.F. Horizontes,Horizontes,La Tortuguilla,27/02/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",301.94,5111.58
+"537","5","479",Santa Rosa,Murcielago,Playa Blanca,28/02/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",6008.73,791284.1
+"538","5","480",Santa Rosa,Murcielago,Paya Blanca (Ojo de agua),28/02/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",2254.73,117664
+"539","6","481",Snta Rosa,Santa Rosa,mirador tierras emergidas,05/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",825.67,29333.84
+"540","7","482",E.E.F. Horizontes,Horizontes,La esperanza,06/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",90.13,473.49
+"541","8","483",Hacienda el Jobo,El Jobo,El Jobo,06/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",2218.34,216506.86
+"542","9","484",E.E.F. Horizontes,Horizontes,La esperanza,08/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",4736.99,276462.3
+"543","10","485",EEFHorizontes,Horizontes,Las Juntas1,19/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",366.13,8246.43
+"544","11","486",EEF Horizontes,Horizontes,Las Juntas2,23/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",1237.33,83579.49
+"545","12","487",EEF horizontes,Horizontes,Las Juntas3,23/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",1301.57,95351.69
+"546","13","487",Sector Horizontes,Horizontes,Saravia,23/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",221.33,2570.5
+"547","14","488",Sector Horizontes,Horizontes,La Toetuguilla 2,24/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",158.2,1487.47
+"548","15","489",RNVS Bahía Junquillal,Junquillal,Junquillal,25/03/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",183.1,2103.66
+"549","16","490",Rincon de la vieja,Santa Maria,Abandonos,11/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",927.96,5143.07
+"550","17","491",Sector Mundo Nuevo,Sector Mundo Nuevo,Abandonos,20/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",2695.34,187886.77
+"551","18","492",Santa Rosa,Santa Elena,Mudo Montero,22/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",539.62,8852.78
+"552","19","493",Guanacaste,El hacha,Animas,23/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",2259.3,256298.31
+"553","20","494",Guanacaste,El hacha,Carrizal Norte,24/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",5929.05,1109820.66
+"554","21","495",Santa Rosa,Santa Rosa,Cuatro Esquinas,24/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",86.3,386.86
+"555","22","496",Sector Mundo Nuevo,Sector Mundo Nuevo,Lte Parcelas aguas Frias,25/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",611.96,20078.93
+"556","23","497",Santa Rosa,Murcielago,Limite Marrana,26/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",355.78,5460.37
+"557","24","498",Finca Privada,Finca Privada,Frente a llanos el avion,26/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",7752.79,1463836.69
+"558","25","499",E.E.F.Horizontes,Horizontes,Limite Rivas,29/04/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",1128.16,31717.56
+"559","26","500",Rincon de la Vieja,Santa Maria,Abandonos,01/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",156.81,613.4
+"560","27","501",Finca Privada,Cuajiniquil,Finca Tomas Ardilla,02/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",573.4,10597.54
+"561","29","503",Sector Mundo Nuevo,Sector Mundo Nuevo,Cerro Gongora,07/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",5771.11,1260393.83
+"562","30","504",Finca Privada,Potrerillos,Finca la tempisquito,07/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",808.88,34661.12
+"563","31","505",Finca Privada,Colonia Bolaños,las torres gemelas,13/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",580.04,12465.02
+"564","32","506",Guanacaste,El hacha,El Amo,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",1070.24,32132.36
+"565","33","507",Guanacaste,El hacha,Limite Bolaños,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",77.87,336.6
+"566","34","508",Guanacaste,El hacha,El Hacha,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",1506.61,65365.77
+"567","34","508",Guanacaste,El hacha,La Guitarra,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",422.48,5544.17
+"568","34","508",Guanacaste,El hacha,El Hacha,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",432.83,6814.57
+"569","34","508",Guanacaste,El hacha,La Guitarra,17/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",3020.96,232937.1
+"570","28","502",Santa Rosa,Santa Elena,Limite Basurita,06/05/2020,incendios_acg_2020_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2020_crtm05.shp,"2020",60.93,202.01
+"571","1","509",EEFHorizontes,Horizontes,La Esperanza,16/02/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",225.77,1175.78
+"572","2","510",EEFHorizontes,Horizontes,La Esperanza,17/02/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",598.43,5014.72
+"573","3","511",Guanacaste,El Hacha,Genova_limite_bolaños,19/02/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",5528.96,522803.37
+"574","4","512",Finca Privada,Hacienda Ahogados,La Esperanza,21/02/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",1778.53,118679.78
+"575","5","513",Guanacaste,Pocosol,X Punto_Alta Mira,04/03/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",19647.14,6713822.55
+"576","6","514",Finca privada,Animas,Animas,08/03/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",430.81,10098.01
+"577","7","515",Sector Mundo Nuevo,Mundo Nuevo,Guayabal,22/03/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",1757.22,45955.73
+"578","8","516",EEFHorizontes,Horizontes,Guacimo,29/03/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",2574.44,201600.64
+"579","9","517",Finca Privada,Cuajiniquil,Limite la tapuda,29/03/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",1067.8,31601.26
+"580","10","518",EEFHorizontes,Horizontes,El Cortes,02/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",5590.52,1412821.23
+"581","11","519",Santa Rosa,Murcielago,limite parcelas,06/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",446.32,7383.68
+"582","12","520",EEFHorizontes,Horizontes,San Luis,07/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",4321.42,693872.46
+"583","13","521",Rincon de la Vieja,Santa Maria,Loma atravesada,08/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",4426.87,174629.77
+"584","13","521",Rincon de la vieja,Santa Maria,canal de agua,08/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",1153.78,45685.87
+"585","14","522",Finca Privada,Finca Privada,La Chanchera,09/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",4105.82,584262.55
+"586","15","523",Guanacaste,El Hacha,El Amo,19/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",629.43,8174.28
+"587","16","524",Finca Privada,Bello Horizontes,Bello Horizontes,20/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",870.06,41057.69
+"588","17","525",Finca Privada,Carrizal,Carrizal,23/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",256.72,3949.44
+"589","18","526",EEFHorizontes,Horizontes,san luis,27/04/2021,incendios_acg_2021_crtm05,/home/esteban/Desktop/ACG/incendios_acg_2021_crtm05.shp,"2021",2764.28,238387.21
