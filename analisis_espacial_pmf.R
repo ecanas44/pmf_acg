@@ -40,7 +40,30 @@ ggplot(incendios, aes(x=factor(ANO), fill=factor(ANO))) + geom_bar() +
 
 ano_2020 <- subset(incendios, ANO == 2020)
 unique(incendios$ANO)
-tb <- tibble(incendios$PARQUE_NAC, incendios$ANO, incendios$AREA_m2)
+tb <- tibble(incendios)
+tb %>% filter(ANO > 1997)
 
-nc <- st_read(system.file("shape/nc.shp", package= "sf"), quiet = T)
-qtm(nc)
+acg <- st_read("./ACGcrtm05.shp", quiet = T)
+qtm(acg)
+dim(acg)
+head(acg)
+
+acg_sf = st_as_sf(acg)
+head(acg_sf)
+
+summary(acg)
+plot(acg)
+plot(st_geometry(acg), col='red')
+qtm(acg, fill='PROVINCIA')
+qtm(acg, fill='HECTARES')
+qtm(acg, fill=c('PROVINCIA', 'HECTARES'))
+
+incendios_gpkg <- st_read("./incendios.gpkg")
+str(incendios_gpkg)
+qtm(incendios_gpkg)
+
+#tmap_mode("view")
+tmap_mode("plot")
+tm_shape(acg) + tm_fill('HECTARES', palette = 'purple', alpha=0.2) +
+  tm_shape(incendios_gpkg) + tm_fill("AREA_m2", palette="red") +
+  tm_basemap('OpenStreetMap')
